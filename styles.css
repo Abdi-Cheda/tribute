@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+* {
+    font-family: "Raleway";
+}
+
+body {
+    
+    margin-top: 0;
+      border: 0px;
+      padding: 0%;
+  }
+#main-heading {
+  margin: 0px;
+  display: block;
+    text-align: center;
+    font-size: 96px;
+    text-align: center;
+  }
+  .header {
+    background-color: #F9F4EF;
+    margin: 0px;
+      border: 0px;
+      padding: 0%;
+  }
+  h1 span{
+      border-bottom: 4px solid rgb(100, 80, 36);
+    }
+    p {
+      text-align: center;
+      margin: 0%;
+      border: 0px;
+      padding: 10px;
+      font-style: italic;
+      color: rgb(100, 80, 36);
+    }
+
+  footer em {
+    font-style: italic;
+  }
+
+  footer {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #EADDD0;
+    color: black;
+    padding: 10px;
+  }
+  div {
+    background-color:  #F9F4EF;
+  }
+  .image-container {
+    background-color:  #EADDD0;
+    text-align: center;
+  }
+  .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+
+}
+#footer-holder {
+  background-color: #F9F4EF;
+  display: block;
+  text-align: center;
+}
+li span {
+font-weight: bold;
+}
